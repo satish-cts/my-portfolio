@@ -4,3 +4,5 @@
 ## Technologies used
 
 Git and GitHub
+SSH
+HTML updates
